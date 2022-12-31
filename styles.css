@@ -1,5 +1,5 @@
 /* Your CSS Code here. */
-.navbar{
+/* .navbar{
     position:fixed;
     top: 0;
     left: 0;
@@ -7,8 +7,8 @@
     z-index: 1;
     background-color: #333;
  
-}
-
+} */
+/* 
 .navbar a{
     display: inline-block;
     color: #f2f2f2;
@@ -16,10 +16,10 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-}
+} */
 
 .navbar a:hover{
-    color: blue;
+    color: red;
 }
 
 h1{
